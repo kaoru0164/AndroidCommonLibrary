@@ -32,3 +32,16 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 }
+
+apply plugin: 'maven'
+
+uploadArchives {
+    repositories {
+        mavenDeployer {
+            repository url: "file://${rootDir.absolutePath}/../repository"
+            pom.version = '0.0.0'
+            pom.groupId = 'jp.ktoybox.android.library.common'
+            pom.artifactId = 'AndroidCommonLibrary'
+        }
+    }
+}
