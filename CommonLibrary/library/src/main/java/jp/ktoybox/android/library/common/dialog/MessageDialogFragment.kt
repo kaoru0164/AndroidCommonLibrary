@@ -142,27 +142,27 @@ class MessageDialogFragment : DialogFragment() {
         /**
          * 引数のキー文字列(タイトル).
          */
-        val ARGUMENT_KEY_TITLE = "Title"
+        const val ARGUMENT_KEY_TITLE = "Title"
         /**
          * 引数のキー文字列(メッセージ).
          */
-        val ARGUMENT_KEY_MESSAGE = "Message"
+        const val ARGUMENT_KEY_MESSAGE = "Message"
         /**
          * 引数のキー文字列(ポジティブボタン).
          */
-        val ARGUMENT_KEY_POSITIVE_BUTTON = "PositiveButton"
+        const val ARGUMENT_KEY_POSITIVE_BUTTON = "PositiveButton"
         /**
          * 引数のキー文字列(ネガティブボタン).
          */
-        val ARGUMENT_KEY_NEGATIVE_BUTTON = "NegativeButton"
+        const val ARGUMENT_KEY_NEGATIVE_BUTTON = "NegativeButton"
         /**
          * 引数のキー文字列(ニュートラルボタン).
          */
-        val ARGUMENT_KEY_NEUTRAL_BUTTON = "NeutralButton"
+        const val ARGUMENT_KEY_NEUTRAL_BUTTON = "NeutralButton"
         /**
          * 引数のキー文字列(キャンセル有効).
          */
-        val ARGUMENT_KEY_CANCELABLE = "Cancelable"
+        const val ARGUMENT_KEY_CANCELABLE = "Cancelable"
     }
 
     /**
