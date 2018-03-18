@@ -55,7 +55,7 @@ class SingleSelectDialogFragment : DialogFragment() {
          * @return 自分のインスタンス
          */
         fun setTitle(titleString: String): Builder {
-            arguments.putString(ARGUMENT_KEY_TITLE, titleString);
+            arguments.putString(ARGUMENT_KEY_TITLE, titleString)
             return this
         }
 
@@ -99,7 +99,7 @@ class SingleSelectDialogFragment : DialogFragment() {
          */
         const val ARGUMENT_KEY_TITLE = "Title"
         /**
-         * 引数のキー文字列(メッセージ).
+         * 引数のキー文字列(アイテム).
          */
         const val ARGUMENT_KEY_ITEMS = "Items"
         /**
