@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    tools:context="jp.ktoybox.android.library.common.fragment.UsageMessageDialogFragment">
+
+    <LinearLayout style="@style/dialog_layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/title" />
+
+        <EditText
+            android:id="@+id/edit_title"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/title"
+            android:text="@string/title" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/dialog_layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/message" />
+
+        <EditText
+            android:id="@+id/edit_message"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/message"
+            android:text="@string/message" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/dialog_layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/positive_button" />
+
+        <EditText
+            android:id="@+id/edit_positive_button"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/positive_button"
+            android:text="@string/yes" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/dialog_layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/negative_button" />
+
+        <EditText
+            android:id="@+id/edit_negative_button"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/negative_button"
+            android:text="@string/no" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/dialog_layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/neutral_button" />
+
+        <EditText
+            android:id="@+id/edit_neutral_button"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/neutral_button"
+            android:text="@string/cancel" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/dialog_layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/cancelable" />
+
+        <CheckBox
+            android:id="@+id/check_cancelable"
+            style="@style/dialog_check_item_value"
+            android:checked="true" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/create" />
+
+</LinearLayout>

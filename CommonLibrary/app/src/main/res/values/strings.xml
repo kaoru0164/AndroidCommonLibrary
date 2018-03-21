@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">CommonLibrary</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="items">Items</string>
+    <string name="positive_button">Positive Button</string>
+    <string name="negative_button">Negative Button</string>
+    <string name="neutral_button">Neutral Button</string>
+    <string name="cancelable">Cancelable</string>
+    <string name="create">Create</string>
+
+    <string name="items_sample_value">item0\nitem1\nitem2</string>
 </resources>
