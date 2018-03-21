@@ -14,4 +14,5 @@
     <string name="cancelable">Cancelable</string>
     <string name="create">Create</string>
 
+    <string name="items_sample_value">item0\nitem1\nitem2</string>
 </resources>

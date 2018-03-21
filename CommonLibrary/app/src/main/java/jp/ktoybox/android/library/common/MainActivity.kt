@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
 
         override fun getPageTitle(position: Int): CharSequence {
 
-            var title:String = ""
+            var title = ""
             when (position){
                 0->title = PAGE_TITLE_MESSAGE_DIALOG
                 1->title = PAGE_TITLE_SINGLE_SELECT_DIALOG

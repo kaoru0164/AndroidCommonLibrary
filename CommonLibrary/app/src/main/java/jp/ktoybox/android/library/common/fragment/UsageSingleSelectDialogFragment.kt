@@ -35,7 +35,7 @@ class UsageSingleSelectDialogFragment : Fragment(), SingleSelectDialogFragment.S
             }
             val itemList = view?.findViewById<EditText>(R.id.edit_items)?.text.toString().split("\n")
             if (itemList.isNotEmpty()) {
-                val items = Array<String>(itemList.size, { i -> itemList[i] })
+                val items = Array(itemList.size, { i -> itemList[i] })
                 builder.setItems(items)
             }
             val checked = view?.findViewById<CheckBox>(R.id.check_cancelable)?.isChecked

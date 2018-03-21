@@ -115,7 +115,7 @@ class SingleSelectDialogFragment : DialogFragment() {
     /**
      * 選択されたアイテムの番号.
      */
-    private var selectedItemNumber = 0;
+    private var selectedItemNumber = 0
 
     override fun onAttach(context: Context?) {
         super.onAttach(context)

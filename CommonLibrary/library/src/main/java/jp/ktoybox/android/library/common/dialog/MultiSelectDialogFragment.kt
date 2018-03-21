@@ -148,7 +148,7 @@ class MultiSelectDialogFragment : DialogFragment() {
 
             builder.setMultiChoiceItems(itemArray
                     , selectedStatusArray
-                    , { dialog, which, selected -> selectedStatusArray.set(which, selected) })
+                    , { dialog, which, selected -> selectedStatusArray[which] = selected })
             builder.setPositiveButton("OK"
                     , { dialog, which -> listener?.onItemSelected(tag, selectedStatusArray, itemArray) })
             builder.setNegativeButton("Cancel", null)
