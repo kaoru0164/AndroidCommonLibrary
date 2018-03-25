@@ -7,6 +7,7 @@ import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentPagerAdapter
 import android.support.v4.view.ViewPager
+import jp.ktoybox.android.library.common.fragment.UsageColorResourceFragment
 import jp.ktoybox.android.library.common.fragment.UsageMessageDialogFragment
 import jp.ktoybox.android.library.common.fragment.UsageMultiSelectDialogFragment
 import jp.ktoybox.android.library.common.fragment.UsageSingleSelectDialogFragment
@@ -31,37 +32,33 @@ class MainActivity : AppCompatActivity() {
         const val PAGE_TITLE_MESSAGE_DIALOG = "Message Dialog"
         const val PAGE_TITLE_SINGLE_SELECT_DIALOG = "Single Select Dialog"
         const val PAGE_TITLE_MULTI_SELECT_DIALOG = "Multi Select Dialog"
+        const val PAGE_TITLE_COLOR_RESOURCE = "Color Resource"
     }
 
-    private class AnAdapter(fm:FragmentManager):FragmentPagerAdapter(fm){
+    private class AnAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
         override fun getItem(position: Int): Fragment {
-            var fragment:Fragment? = null
-            when (position){
-                0->fragment = UsageMessageDialogFragment.newInstance()
-                1->fragment = UsageSingleSelectDialogFragment.newInstance()
-                2->fragment = UsageMultiSelectDialogFragment.newInstance()
+            return when (position) {
+                0 -> UsageMessageDialogFragment.newInstance()
+                1 -> UsageSingleSelectDialogFragment.newInstance()
+                2 -> UsageMultiSelectDialogFragment.newInstance()
+                3 -> UsageColorResourceFragment.newInstance()
+                else -> throw IllegalStateException()
             }
-            if (fragment == null) {
-                throw IllegalStateException()
-            }
-
-            return fragment
         }
 
         override fun getCount(): Int {
-            return 3
+            return 4
         }
 
         override fun getPageTitle(position: Int): CharSequence {
 
-            var title = ""
-            when (position){
-                0->title = PAGE_TITLE_MESSAGE_DIALOG
-                1->title = PAGE_TITLE_SINGLE_SELECT_DIALOG
-                2->title= PAGE_TITLE_MULTI_SELECT_DIALOG
+            return when (position) {
+                0 -> PAGE_TITLE_MESSAGE_DIALOG
+                1 -> PAGE_TITLE_SINGLE_SELECT_DIALOG
+                2 -> PAGE_TITLE_MULTI_SELECT_DIALOG
+                3 -> PAGE_TITLE_COLOR_RESOURCE
+                else -> ""
             }
-
-            return title
         }
     }
 }
