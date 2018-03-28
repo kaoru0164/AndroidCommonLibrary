@@ -18,7 +18,7 @@
                 style="@style/color_text_group"
                 android:text="CSS3 Extension Color" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -33,7 +33,7 @@
                     android:background="@color/black" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -48,7 +48,7 @@
                     android:background="@color/dim_gray" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -63,7 +63,7 @@
                     android:background="@color/gray" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -78,7 +78,7 @@
                     android:background="@color/dark_gray" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -93,7 +93,7 @@
                     android:background="@color/silver" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -108,7 +108,7 @@
                     android:background="@color/light_grey" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -123,7 +123,7 @@
                     android:background="@color/gains_boro" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -138,7 +138,7 @@
                     android:background="@color/white_smoke" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -153,7 +153,7 @@
                     android:background="@color/white" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -168,7 +168,7 @@
                     android:background="@color/snow" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -183,7 +183,7 @@
                     android:background="@color/ghost_white" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -198,7 +198,7 @@
                     android:background="@color/floral_white" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -213,7 +213,7 @@
                     android:background="@color/linen" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -228,7 +228,7 @@
                     android:background="@color/antique_white" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -243,7 +243,7 @@
                     android:background="@color/papaya_whip" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -258,7 +258,7 @@
                     android:background="@color/blanched_almond" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -273,7 +273,7 @@
                     android:background="@color/bisque" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -288,7 +288,7 @@
                     android:background="@color/moccasin" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -303,7 +303,7 @@
                     android:background="@color/navajo_white" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -318,7 +318,7 @@
                     android:background="@color/peach_puff" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -333,7 +333,7 @@
                     android:background="@color/misty_rose" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -348,7 +348,7 @@
                     android:background="@color/lavender_blush" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -363,7 +363,7 @@
                     android:background="@color/seashell" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -378,7 +378,7 @@
                     android:background="@color/old_lace" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -393,7 +393,7 @@
                     android:background="@color/ivory" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -408,7 +408,7 @@
                     android:background="@color/honeydew" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -423,7 +423,7 @@
                     android:background="@color/mint_cream" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -438,7 +438,7 @@
                     android:background="@color/azure" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -453,7 +453,7 @@
                     android:background="@color/alice_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -468,7 +468,7 @@
                     android:background="@color/lavender" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -483,7 +483,7 @@
                     android:background="@color/light_steel_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -498,7 +498,7 @@
                     android:background="@color/light_slate_gray" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -513,7 +513,7 @@
                     android:background="@color/slate_gray" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -528,7 +528,7 @@
                     android:background="@color/steel_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -543,7 +543,7 @@
                     android:background="@color/royal_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -558,7 +558,7 @@
                     android:background="@color/midnight_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -573,7 +573,7 @@
                     android:background="@color/navy" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -588,7 +588,7 @@
                     android:background="@color/dark_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -603,7 +603,7 @@
                     android:background="@color/medium_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -618,7 +618,7 @@
                     android:background="@color/blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -633,7 +633,7 @@
                     android:background="@color/dodger_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -648,7 +648,7 @@
                     android:background="@color/cornflower_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -663,7 +663,7 @@
                     android:background="@color/deep_sky_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -678,7 +678,7 @@
                     android:background="@color/light_sky_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -693,7 +693,7 @@
                     android:background="@color/sky_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -708,7 +708,7 @@
                     android:background="@color/light_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -723,7 +723,7 @@
                     android:background="@color/powder_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -738,7 +738,7 @@
                     android:background="@color/pale_turquoise" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -753,7 +753,7 @@
                     android:background="@color/light_cyan" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -768,7 +768,7 @@
                     android:background="@color/cyan" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -783,7 +783,7 @@
                     android:background="@color/aqua" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -798,7 +798,7 @@
                     android:background="@color/turquoise" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -813,7 +813,7 @@
                     android:background="@color/medium_turquoise" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -828,7 +828,7 @@
                     android:background="@color/dark_turquoise" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -843,7 +843,7 @@
                     android:background="@color/light_sea_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -858,7 +858,7 @@
                     android:background="@color/cadet_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -873,7 +873,7 @@
                     android:background="@color/dark_cyan" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -888,7 +888,7 @@
                     android:background="@color/teal" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -903,7 +903,7 @@
                     android:background="@color/dark_slate_gray" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -918,7 +918,7 @@
                     android:background="@color/dark_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -933,7 +933,7 @@
                     android:background="@color/green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -948,7 +948,7 @@
                     android:background="@color/forest_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -963,7 +963,7 @@
                     android:background="@color/sea_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -978,7 +978,7 @@
                     android:background="@color/medium_sea_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -993,7 +993,7 @@
                     android:background="@color/medium_aqua_marine" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1008,7 +1008,7 @@
                     android:background="@color/dark_sea_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1023,7 +1023,7 @@
                     android:background="@color/aqua_marine" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1038,7 +1038,7 @@
                     android:background="@color/pale_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1053,7 +1053,7 @@
                     android:background="@color/light_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1068,7 +1068,7 @@
                     android:background="@color/spring_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1083,7 +1083,7 @@
                     android:background="@color/medium_spring_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1098,7 +1098,7 @@
                     android:background="@color/lawn_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1113,7 +1113,7 @@
                     android:background="@color/chartreuse" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1128,7 +1128,7 @@
                     android:background="@color/green_yellow" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1143,7 +1143,7 @@
                     android:background="@color/lime" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1158,7 +1158,7 @@
                     android:background="@color/lime_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1173,7 +1173,7 @@
                     android:background="@color/yellow_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1188,7 +1188,7 @@
                     android:background="@color/dark_olive_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1203,7 +1203,7 @@
                     android:background="@color/olive_drab" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1218,7 +1218,7 @@
                     android:background="@color/olive" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1233,7 +1233,7 @@
                     android:background="@color/dark_khaki" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1248,7 +1248,7 @@
                     android:background="@color/pale_goldenrod" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1263,7 +1263,7 @@
                     android:background="@color/corn_silk" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1278,7 +1278,7 @@
                     android:background="@color/beige" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1293,7 +1293,7 @@
                     android:background="@color/light_yellow" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1308,7 +1308,7 @@
                     android:background="@color/light_goldenrod_yellow" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1323,7 +1323,7 @@
                     android:background="@color/lemon_chiffon" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1338,7 +1338,7 @@
                     android:background="@color/wheat" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1353,7 +1353,7 @@
                     android:background="@color/burly_wood" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1368,7 +1368,7 @@
                     android:background="@color/tan" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1383,7 +1383,7 @@
                     android:background="@color/khaki" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1398,7 +1398,7 @@
                     android:background="@color/yellow" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1413,7 +1413,7 @@
                     android:background="@color/gold" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1428,7 +1428,7 @@
                     android:background="@color/orange" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1443,7 +1443,7 @@
                     android:background="@color/sandy_brown" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1458,7 +1458,7 @@
                     android:background="@color/dark_orange" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1473,7 +1473,7 @@
                     android:background="@color/goldenrod" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1488,7 +1488,7 @@
                     android:background="@color/peru" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1503,7 +1503,7 @@
                     android:background="@color/dark_goldenrod" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1518,7 +1518,7 @@
                     android:background="@color/chocolate" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1533,7 +1533,7 @@
                     android:background="@color/sienna" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1548,7 +1548,7 @@
                     android:background="@color/saddle_brown" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1563,7 +1563,7 @@
                     android:background="@color/maroon" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1578,7 +1578,7 @@
                     android:background="@color/dark_red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1593,7 +1593,7 @@
                     android:background="@color/brown" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1608,7 +1608,7 @@
                     android:background="@color/fire_brick" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1623,7 +1623,7 @@
                     android:background="@color/indian_red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1638,7 +1638,7 @@
                     android:background="@color/rosy_brown" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1653,7 +1653,7 @@
                     android:background="@color/dark_salmon" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1668,7 +1668,7 @@
                     android:background="@color/light_coral" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1683,7 +1683,7 @@
                     android:background="@color/salmon" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1698,7 +1698,7 @@
                     android:background="@color/light_salmon" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1713,7 +1713,7 @@
                     android:background="@color/coral" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1728,7 +1728,7 @@
                     android:background="@color/tomato" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1743,7 +1743,7 @@
                     android:background="@color/orange_red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1758,7 +1758,7 @@
                     android:background="@color/red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1773,7 +1773,7 @@
                     android:background="@color/crimson" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1788,7 +1788,7 @@
                     android:background="@color/medium_violet_red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1803,7 +1803,7 @@
                     android:background="@color/deep_pink" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1818,7 +1818,7 @@
                     android:background="@color/hot_pink" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1833,7 +1833,7 @@
                     android:background="@color/pale_violet_red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1848,7 +1848,7 @@
                     android:background="@color/pink" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1863,7 +1863,7 @@
                     android:background="@color/light_pink" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1878,7 +1878,7 @@
                     android:background="@color/thistle" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1893,7 +1893,7 @@
                     android:background="@color/magenta" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1908,7 +1908,7 @@
                     android:background="@color/fuchsia" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1923,7 +1923,7 @@
                     android:background="@color/violet" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1938,7 +1938,7 @@
                     android:background="@color/plum" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1953,7 +1953,7 @@
                     android:background="@color/orchid" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1968,7 +1968,7 @@
                     android:background="@color/medium_orchid" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1983,7 +1983,7 @@
                     android:background="@color/dark_orchid" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -1998,7 +1998,7 @@
                     android:background="@color/dark_violet" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2013,7 +2013,7 @@
                     android:background="@color/dark_magenta" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2028,7 +2028,7 @@
                     android:background="@color/purple" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2043,7 +2043,7 @@
                     android:background="@color/indigo" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2058,7 +2058,7 @@
                     android:background="@color/dark_slate_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2073,7 +2073,7 @@
                     android:background="@color/blue_violet" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2088,7 +2088,7 @@
                     android:background="@color/medium_purple" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2103,7 +2103,7 @@
                     android:background="@color/slate_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2122,7 +2122,7 @@
                 style="@style/color_text_group"
                 android:text="Material Red" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2137,7 +2137,7 @@
                     android:background="@color/material_red" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2152,7 +2152,7 @@
                     android:background="@color/material_red_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2167,7 +2167,7 @@
                     android:background="@color/material_red_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2182,7 +2182,7 @@
                     android:background="@color/material_red_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2197,7 +2197,7 @@
                     android:background="@color/material_red_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2212,7 +2212,7 @@
                     android:background="@color/material_red_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2227,7 +2227,7 @@
                     android:background="@color/material_red_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2242,7 +2242,7 @@
                     android:background="@color/material_red_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2257,7 +2257,7 @@
                     android:background="@color/material_red_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2272,7 +2272,7 @@
                     android:background="@color/material_red_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2287,7 +2287,7 @@
                     android:background="@color/material_red_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2302,7 +2302,7 @@
                     android:background="@color/material_red_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2317,7 +2317,7 @@
                     android:background="@color/material_red_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2332,7 +2332,7 @@
                     android:background="@color/material_red_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2351,7 +2351,7 @@
                 style="@style/color_text_group"
                 android:text="Material Pink" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2366,7 +2366,7 @@
                     android:background="@color/material_pink" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2381,7 +2381,7 @@
                     android:background="@color/material_pink_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2396,7 +2396,7 @@
                     android:background="@color/material_pink_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2411,7 +2411,7 @@
                     android:background="@color/material_pink_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2426,7 +2426,7 @@
                     android:background="@color/material_pink_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2441,7 +2441,7 @@
                     android:background="@color/material_pink_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2456,7 +2456,7 @@
                     android:background="@color/material_pink_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2471,7 +2471,7 @@
                     android:background="@color/material_pink_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2486,7 +2486,7 @@
                     android:background="@color/material_pink_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2501,7 +2501,7 @@
                     android:background="@color/material_pink_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2516,7 +2516,7 @@
                     android:background="@color/material_pink_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2531,7 +2531,7 @@
                     android:background="@color/material_pink_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2546,7 +2546,7 @@
                     android:background="@color/material_pink_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2561,7 +2561,7 @@
                     android:background="@color/material_pink_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2580,7 +2580,7 @@
                 style="@style/color_text_group"
                 android:text="Material Purple" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2595,7 +2595,7 @@
                     android:background="@color/material_purple" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2610,7 +2610,7 @@
                     android:background="@color/material_purple_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2625,7 +2625,7 @@
                     android:background="@color/material_purple_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2640,7 +2640,7 @@
                     android:background="@color/material_purple_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2655,7 +2655,7 @@
                     android:background="@color/material_purple_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2670,7 +2670,7 @@
                     android:background="@color/material_purple_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2685,7 +2685,7 @@
                     android:background="@color/material_purple_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2700,7 +2700,7 @@
                     android:background="@color/material_purple_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2715,7 +2715,7 @@
                     android:background="@color/material_purple_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2730,7 +2730,7 @@
                     android:background="@color/material_purple_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2745,7 +2745,7 @@
                     android:background="@color/material_purple_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2760,7 +2760,7 @@
                     android:background="@color/material_purple_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2775,7 +2775,7 @@
                     android:background="@color/material_purple_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2790,7 +2790,7 @@
                     android:background="@color/material_purple_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2809,7 +2809,7 @@
                 style="@style/color_text_group"
                 android:text="Material Deep Purple" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2824,7 +2824,7 @@
                     android:background="@color/material_deep_purple" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2839,7 +2839,7 @@
                     android:background="@color/material_deep_purple_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2854,7 +2854,7 @@
                     android:background="@color/material_deep_purple_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2869,7 +2869,7 @@
                     android:background="@color/material_deep_purple_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2884,7 +2884,7 @@
                     android:background="@color/material_deep_purple_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2899,7 +2899,7 @@
                     android:background="@color/material_deep_purple_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2914,7 +2914,7 @@
                     android:background="@color/material_deep_purple_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2929,7 +2929,7 @@
                     android:background="@color/material_deep_purple_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2944,7 +2944,7 @@
                     android:background="@color/material_deep_purple_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2959,7 +2959,7 @@
                     android:background="@color/material_deep_purple_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2974,7 +2974,7 @@
                     android:background="@color/material_deep_purple_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -2989,7 +2989,7 @@
                     android:background="@color/material_deep_purple_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3004,7 +3004,7 @@
                     android:background="@color/material_deep_purple_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3019,7 +3019,7 @@
                     android:background="@color/material_deep_purple_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3038,7 +3038,7 @@
                 style="@style/color_text_group"
                 android:text="Material Indigo" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3053,7 +3053,7 @@
                     android:background="@color/material_indigo" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3068,7 +3068,7 @@
                     android:background="@color/material_indigo_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3083,7 +3083,7 @@
                     android:background="@color/material_indigo_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3098,7 +3098,7 @@
                     android:background="@color/material_indigo_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3113,7 +3113,7 @@
                     android:background="@color/material_indigo_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3128,7 +3128,7 @@
                     android:background="@color/material_indigo_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3143,7 +3143,7 @@
                     android:background="@color/material_indigo_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3158,7 +3158,7 @@
                     android:background="@color/material_indigo_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3173,7 +3173,7 @@
                     android:background="@color/material_indigo_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3188,7 +3188,7 @@
                     android:background="@color/material_indigo_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3203,7 +3203,7 @@
                     android:background="@color/material_indigo_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3218,7 +3218,7 @@
                     android:background="@color/material_indigo_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3233,7 +3233,7 @@
                     android:background="@color/material_indigo_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3248,7 +3248,7 @@
                     android:background="@color/material_indigo_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3267,7 +3267,7 @@
                 style="@style/color_text_group"
                 android:text="Material Blue" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3282,7 +3282,7 @@
                     android:background="@color/material_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3297,7 +3297,7 @@
                     android:background="@color/material_blue_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3312,7 +3312,7 @@
                     android:background="@color/material_blue_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3327,7 +3327,7 @@
                     android:background="@color/material_blue_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3342,7 +3342,7 @@
                     android:background="@color/material_blue_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3357,7 +3357,7 @@
                     android:background="@color/material_blue_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3372,7 +3372,7 @@
                     android:background="@color/material_blue_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3387,7 +3387,7 @@
                     android:background="@color/material_blue_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3402,7 +3402,7 @@
                     android:background="@color/material_blue_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3417,7 +3417,7 @@
                     android:background="@color/material_blue_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3432,7 +3432,7 @@
                     android:background="@color/material_blue_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3447,7 +3447,7 @@
                     android:background="@color/material_blue_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3462,7 +3462,7 @@
                     android:background="@color/material_blue_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3477,7 +3477,7 @@
                     android:background="@color/material_blue_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3496,7 +3496,7 @@
                 style="@style/color_text_group"
                 android:text="Material Light Blue" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3511,7 +3511,7 @@
                     android:background="@color/material_light_blue" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3526,7 +3526,7 @@
                     android:background="@color/material_light_blue_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3541,7 +3541,7 @@
                     android:background="@color/material_light_blue_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3556,7 +3556,7 @@
                     android:background="@color/material_light_blue_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3571,7 +3571,7 @@
                     android:background="@color/material_light_blue_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3586,7 +3586,7 @@
                     android:background="@color/material_light_blue_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3601,7 +3601,7 @@
                     android:background="@color/material_light_blue_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3616,7 +3616,7 @@
                     android:background="@color/material_light_blue_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3631,7 +3631,7 @@
                     android:background="@color/material_light_blue_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3646,7 +3646,7 @@
                     android:background="@color/material_light_blue_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3661,7 +3661,7 @@
                     android:background="@color/material_light_blue_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3676,7 +3676,7 @@
                     android:background="@color/material_light_blue_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3691,7 +3691,7 @@
                     android:background="@color/material_light_blue_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3706,7 +3706,7 @@
                     android:background="@color/material_light_blue_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3725,7 +3725,7 @@
                 style="@style/color_text_group"
                 android:text="Material Cyan" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3740,7 +3740,7 @@
                     android:background="@color/material_cyan" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3755,7 +3755,7 @@
                     android:background="@color/material_cyan_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3770,7 +3770,7 @@
                     android:background="@color/material_cyan_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3785,7 +3785,7 @@
                     android:background="@color/material_cyan_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3800,7 +3800,7 @@
                     android:background="@color/material_cyan_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3815,7 +3815,7 @@
                     android:background="@color/material_cyan_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3830,7 +3830,7 @@
                     android:background="@color/material_cyan_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3845,7 +3845,7 @@
                     android:background="@color/material_cyan_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3860,7 +3860,7 @@
                     android:background="@color/material_cyan_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3875,7 +3875,7 @@
                     android:background="@color/material_cyan_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3890,7 +3890,7 @@
                     android:background="@color/material_cyan_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3905,7 +3905,7 @@
                     android:background="@color/material_cyan_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3920,7 +3920,7 @@
                     android:background="@color/material_cyan_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3935,7 +3935,7 @@
                     android:background="@color/material_cyan_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3954,7 +3954,7 @@
                 style="@style/color_text_group"
                 android:text="Material Teal" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3969,7 +3969,7 @@
                     android:background="@color/material_teal" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3984,7 +3984,7 @@
                     android:background="@color/material_teal_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -3999,7 +3999,7 @@
                     android:background="@color/material_teal_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4014,7 +4014,7 @@
                     android:background="@color/material_teal_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4029,7 +4029,7 @@
                     android:background="@color/material_teal_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4044,7 +4044,7 @@
                     android:background="@color/material_teal_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4059,7 +4059,7 @@
                     android:background="@color/material_teal_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4074,7 +4074,7 @@
                     android:background="@color/material_teal_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4089,7 +4089,7 @@
                     android:background="@color/material_teal_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4104,7 +4104,7 @@
                     android:background="@color/material_teal_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4119,7 +4119,7 @@
                     android:background="@color/material_teal_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4134,7 +4134,7 @@
                     android:background="@color/material_teal_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4149,7 +4149,7 @@
                     android:background="@color/material_teal_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4164,7 +4164,7 @@
                     android:background="@color/material_teal_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4183,7 +4183,7 @@
                 style="@style/color_text_group"
                 android:text="Material Green" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4198,7 +4198,7 @@
                     android:background="@color/material_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4213,7 +4213,7 @@
                     android:background="@color/material_green_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4228,7 +4228,7 @@
                     android:background="@color/material_green_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4243,7 +4243,7 @@
                     android:background="@color/material_green_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4258,7 +4258,7 @@
                     android:background="@color/material_green_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4273,7 +4273,7 @@
                     android:background="@color/material_green_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4288,7 +4288,7 @@
                     android:background="@color/material_green_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4303,7 +4303,7 @@
                     android:background="@color/material_green_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4318,7 +4318,7 @@
                     android:background="@color/material_green_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4333,7 +4333,7 @@
                     android:background="@color/material_green_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4348,7 +4348,7 @@
                     android:background="@color/material_green_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4363,7 +4363,7 @@
                     android:background="@color/material_green_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4378,7 +4378,7 @@
                     android:background="@color/material_green_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4393,7 +4393,7 @@
                     android:background="@color/material_green_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4412,7 +4412,7 @@
                 style="@style/color_text_group"
                 android:text="Material Light Green" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4427,7 +4427,7 @@
                     android:background="@color/material_light_green" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4442,7 +4442,7 @@
                     android:background="@color/material_light_green_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4457,7 +4457,7 @@
                     android:background="@color/material_light_green_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4472,7 +4472,7 @@
                     android:background="@color/material_light_green_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4487,7 +4487,7 @@
                     android:background="@color/material_light_green_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4502,7 +4502,7 @@
                     android:background="@color/material_light_green_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4517,7 +4517,7 @@
                     android:background="@color/material_light_green_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4532,7 +4532,7 @@
                     android:background="@color/material_light_green_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4547,7 +4547,7 @@
                     android:background="@color/material_light_green_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4562,7 +4562,7 @@
                     android:background="@color/material_light_green_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4577,7 +4577,7 @@
                     android:background="@color/material_light_green_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4592,7 +4592,7 @@
                     android:background="@color/material_light_green_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4607,7 +4607,7 @@
                     android:background="@color/material_light_green_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4622,7 +4622,7 @@
                     android:background="@color/material_light_green_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4641,7 +4641,7 @@
                 style="@style/color_text_group"
                 android:text="Material Lime" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4656,7 +4656,7 @@
                     android:background="@color/material_lime" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4671,7 +4671,7 @@
                     android:background="@color/material_lime_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4686,7 +4686,7 @@
                     android:background="@color/material_lime_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4701,7 +4701,7 @@
                     android:background="@color/material_lime_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4716,7 +4716,7 @@
                     android:background="@color/material_lime_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4731,7 +4731,7 @@
                     android:background="@color/material_lime_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4746,7 +4746,7 @@
                     android:background="@color/material_lime_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4761,7 +4761,7 @@
                     android:background="@color/material_lime_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4776,7 +4776,7 @@
                     android:background="@color/material_lime_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4791,7 +4791,7 @@
                     android:background="@color/material_lime_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4806,7 +4806,7 @@
                     android:background="@color/material_lime_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4821,7 +4821,7 @@
                     android:background="@color/material_lime_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4836,7 +4836,7 @@
                     android:background="@color/material_lime_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4851,7 +4851,7 @@
                     android:background="@color/material_lime_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4870,7 +4870,7 @@
                 style="@style/color_text_group"
                 android:text="Material Yellow" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4885,7 +4885,7 @@
                     android:background="@color/material_yellow" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4900,7 +4900,7 @@
                     android:background="@color/material_yellow_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4915,7 +4915,7 @@
                     android:background="@color/material_yellow_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4930,7 +4930,7 @@
                     android:background="@color/material_yellow_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4945,7 +4945,7 @@
                     android:background="@color/material_yellow_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4960,7 +4960,7 @@
                     android:background="@color/material_yellow_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4975,7 +4975,7 @@
                     android:background="@color/material_yellow_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -4990,7 +4990,7 @@
                     android:background="@color/material_yellow_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5005,7 +5005,7 @@
                     android:background="@color/material_yellow_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5020,7 +5020,7 @@
                     android:background="@color/material_yellow_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5035,7 +5035,7 @@
                     android:background="@color/material_yellow_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5050,7 +5050,7 @@
                     android:background="@color/material_yellow_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5065,7 +5065,7 @@
                     android:background="@color/material_yellow_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5080,7 +5080,7 @@
                     android:background="@color/material_yellow_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5099,7 +5099,7 @@
                 style="@style/color_text_group"
                 android:text="Material Amber" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5114,7 +5114,7 @@
                     android:background="@color/material_amber" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5129,7 +5129,7 @@
                     android:background="@color/material_amber_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5144,7 +5144,7 @@
                     android:background="@color/material_amber_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5159,7 +5159,7 @@
                     android:background="@color/material_amber_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5174,7 +5174,7 @@
                     android:background="@color/material_amber_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5189,7 +5189,7 @@
                     android:background="@color/material_amber_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5204,7 +5204,7 @@
                     android:background="@color/material_amber_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5219,7 +5219,7 @@
                     android:background="@color/material_amber_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5234,7 +5234,7 @@
                     android:background="@color/material_amber_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5249,7 +5249,7 @@
                     android:background="@color/material_amber_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5264,7 +5264,7 @@
                     android:background="@color/material_amber_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5279,7 +5279,7 @@
                     android:background="@color/material_amber_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5294,7 +5294,7 @@
                     android:background="@color/material_amber_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5309,7 +5309,7 @@
                     android:background="@color/material_amber_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5328,7 +5328,7 @@
                 style="@style/color_text_group"
                 android:text="Material Orange" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5343,7 +5343,7 @@
                     android:background="@color/material_orange" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5358,7 +5358,7 @@
                     android:background="@color/material_orange_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5373,7 +5373,7 @@
                     android:background="@color/material_orange_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5388,7 +5388,7 @@
                     android:background="@color/material_orange_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5403,7 +5403,7 @@
                     android:background="@color/material_orange_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5418,7 +5418,7 @@
                     android:background="@color/material_orange_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5433,7 +5433,7 @@
                     android:background="@color/material_orange_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5448,7 +5448,7 @@
                     android:background="@color/material_orange_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5463,7 +5463,7 @@
                     android:background="@color/material_orange_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5478,7 +5478,7 @@
                     android:background="@color/material_orange_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5493,7 +5493,7 @@
                     android:background="@color/material_orange_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5508,7 +5508,7 @@
                     android:background="@color/material_orange_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5523,7 +5523,7 @@
                     android:background="@color/material_orange_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5538,7 +5538,7 @@
                     android:background="@color/material_orange_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5557,7 +5557,7 @@
                 style="@style/color_text_group"
                 android:text="Material Deep Orange" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5572,7 +5572,7 @@
                     android:background="@color/material_deep_orange" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5587,7 +5587,7 @@
                     android:background="@color/material_deep_orange_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5602,7 +5602,7 @@
                     android:background="@color/material_deep_orange_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5617,7 +5617,7 @@
                     android:background="@color/material_deep_orange_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5632,7 +5632,7 @@
                     android:background="@color/material_deep_orange_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5647,7 +5647,7 @@
                     android:background="@color/material_deep_orange_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5662,7 +5662,7 @@
                     android:background="@color/material_deep_orange_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5677,7 +5677,7 @@
                     android:background="@color/material_deep_orange_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5692,7 +5692,7 @@
                     android:background="@color/material_deep_orange_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5707,7 +5707,7 @@
                     android:background="@color/material_deep_orange_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5722,7 +5722,7 @@
                     android:background="@color/material_deep_orange_900" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5737,7 +5737,7 @@
                     android:background="@color/material_deep_orange_A100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5752,7 +5752,7 @@
                     android:background="@color/material_deep_orange_A200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5767,7 +5767,7 @@
                     android:background="@color/material_deep_orange_A400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5786,7 +5786,7 @@
                 style="@style/color_text_group"
                 android:text="Material Brown" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5801,7 +5801,7 @@
                     android:background="@color/material_brown" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5816,7 +5816,7 @@
                     android:background="@color/material_brown_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5831,7 +5831,7 @@
                     android:background="@color/material_brown_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5846,7 +5846,7 @@
                     android:background="@color/material_brown_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5861,7 +5861,7 @@
                     android:background="@color/material_brown_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5876,7 +5876,7 @@
                     android:background="@color/material_brown_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5891,7 +5891,7 @@
                     android:background="@color/material_brown_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5906,7 +5906,7 @@
                     android:background="@color/material_brown_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5921,7 +5921,7 @@
                     android:background="@color/material_brown_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5936,7 +5936,7 @@
                     android:background="@color/material_brown_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5955,7 +5955,7 @@
                 style="@style/color_text_group"
                 android:text="Material Grey" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5970,7 +5970,7 @@
                     android:background="@color/material_grey" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -5985,7 +5985,7 @@
                     android:background="@color/material_grey_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6000,7 +6000,7 @@
                     android:background="@color/material_grey_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6015,7 +6015,7 @@
                     android:background="@color/material_grey_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6030,7 +6030,7 @@
                     android:background="@color/material_grey_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6045,7 +6045,7 @@
                     android:background="@color/material_grey_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6060,7 +6060,7 @@
                     android:background="@color/material_grey_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6075,7 +6075,7 @@
                     android:background="@color/material_grey_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6090,7 +6090,7 @@
                     android:background="@color/material_grey_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6105,7 +6105,7 @@
                     android:background="@color/material_grey_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6124,7 +6124,7 @@
                 style="@style/color_text_group"
                 android:text="Material Blue Grey" />
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6139,7 +6139,7 @@
                     android:background="@color/material_blue_grey" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6154,7 +6154,7 @@
                     android:background="@color/material_blue_grey_50" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6169,7 +6169,7 @@
                     android:background="@color/material_blue_grey_100" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6184,7 +6184,7 @@
                     android:background="@color/material_blue_grey_200" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6199,7 +6199,7 @@
                     android:background="@color/material_blue_grey_300" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6214,7 +6214,7 @@
                     android:background="@color/material_blue_grey_400" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6229,7 +6229,7 @@
                     android:background="@color/material_blue_grey_500" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6244,7 +6244,7 @@
                     android:background="@color/material_blue_grey_600" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6259,7 +6259,7 @@
                     android:background="@color/material_blue_grey_700" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
@@ -6274,7 +6274,7 @@
                     android:background="@color/material_blue_grey_800" />
             </LinearLayout>
 
-            <LinearLayout style="@style/layout_line">
+            <LinearLayout style="@style/layout_color_line">
 
                 <TextView
                     style="@style/color_text_name"
