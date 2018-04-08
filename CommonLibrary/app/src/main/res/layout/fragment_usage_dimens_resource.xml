@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="jp.ktoybox.android.library.common.fragment.UsageDimensResourceFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/margin_small">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Margin -->
+            <TextView
+                style="@style/dimens_text_group"
+                android:text="@string/margin" />
+
+            <LinearLayout style="@style/dimens_margin_line">
+
+                <TextView
+                    style="@style/dimens_text_margin"
+                    android:layout_margin="@dimen/margin_huge"
+                    android:text="@string/margin_huge" />
+            </LinearLayout>
+
+            <View style="@style/dimens_separator" />
+
+            <LinearLayout style="@style/dimens_margin_line">
+
+                <TextView
+                    style="@style/dimens_text_margin"
+                    android:layout_margin="@dimen/margin_large"
+                    android:text="@string/margin_large" />
+            </LinearLayout>
+
+            <View style="@style/dimens_separator" />
+
+            <LinearLayout style="@style/dimens_margin_line">
+
+                <TextView
+                    style="@style/dimens_text_margin"
+                    android:layout_margin="@dimen/margin_medium"
+                    android:text="@string/margin_medium" />
+            </LinearLayout>
+
+            <View style="@style/dimens_separator" />
+
+            <LinearLayout style="@style/dimens_margin_line">
+
+                <TextView
+                    style="@style/dimens_text_margin"
+                    android:layout_margin="@dimen/margin_small"
+                    android:text="@string/margin_small" />
+            </LinearLayout>
+
+            <View style="@style/dimens_separator" />
+
+            <LinearLayout style="@style/dimens_margin_line">
+
+                <TextView
+                    style="@style/dimens_text_margin"
+                    android:layout_margin="@dimen/margin_tiny"
+                    android:text="@string/margin_tiny" />
+            </LinearLayout>
+
+            <!-- Text Size -->
+            <TextView
+                style="@style/dimens_text_group"
+                android:text="@string/text_size" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_display_4"
+                android:textSize="@dimen/text_size_display_4" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_display_3"
+                android:textSize="@dimen/text_size_display_3" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_display_2"
+                android:textSize="@dimen/text_size_display_2" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_display_1"
+                android:textSize="@dimen/text_size_display_1" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_headline"
+                android:textSize="@dimen/text_size_headline" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_title"
+                android:textSize="@dimen/text_size_title" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_sub_heading"
+                android:textSize="@dimen/text_size_sub_heading" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_body"
+                android:textSize="@dimen/text_size_body" />
+
+            <TextView
+                style="@style/dimens_text_size"
+                android:text="@string/text_size_caption"
+                android:textSize="@dimen/text_size_caption" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

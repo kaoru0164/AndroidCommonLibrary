@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">CommonLibrary</string>
 
+    <!-- Usage dialog -->
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="cancel">Cancel</string>
@@ -15,4 +16,23 @@
     <string name="create">Create</string>
 
     <string name="items_sample_value">item0\nitem1\nitem2</string>
+
+    <!-- Usage dimens -->
+    <string name="margin">Margin</string>
+    <string name="margin_tiny">Margin Tiny</string>
+    <string name="margin_small">Margin Small</string>
+    <string name="margin_medium">Margin Medium</string>
+    <string name="margin_large">Margin Large</string>
+    <string name="margin_huge">Margin Huge</string>
+
+    <string name="text_size">Text size</string>
+    <string name="text_size_display_4">Display 4</string>
+    <string name="text_size_display_3">Display 3</string>
+    <string name="text_size_display_2">Display 2</string>
+    <string name="text_size_display_1">Display 1</string>
+    <string name="text_size_headline">Headline</string>
+    <string name="text_size_title">Title</string>
+    <string name="text_size_sub_heading">Sub heading</string>
+    <string name="text_size_body">Body</string>
+    <string name="text_size_caption">Caption</string>
 </resources>

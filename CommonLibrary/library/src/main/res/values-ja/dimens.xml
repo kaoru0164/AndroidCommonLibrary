@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text size -->
+    <!-- see : https://material.google.com/style/typography.html#typography-styles -->
+    <dimen name="text_size_display_4">112sp</dimen>
+    <dimen name="text_size_display_3">56sp</dimen>
+    <dimen name="text_size_display_2">45sp</dimen>
+    <dimen name="text_size_display_1">34sp</dimen>
+    <dimen name="text_size_headline">24sp</dimen>
+    <dimen name="text_size_title">21sp</dimen>
+    <dimen name="text_size_sub_heading">17sp</dimen>
+    <dimen name="text_size_body">15sp</dimen>
+    <dimen name="text_size_caption">13sp</dimen>
+
+</resources>

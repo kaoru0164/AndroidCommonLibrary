@@ -6,7 +6,7 @@
     android:orientation="vertical"
     tools:context="jp.ktoybox.android.library.common.fragment.UsageSingleSelectDialogFragment">
 
-    <LinearLayout style="@style/dialog_layout_line">
+    <LinearLayout style="@style/layout_line">
 
         <TextView
             style="@style/dialog_text_item_name"
@@ -19,7 +19,7 @@
             android:text="@string/title" />
     </LinearLayout>
 
-    <LinearLayout style="@style/dialog_layout_line">
+    <LinearLayout style="@style/layout_line">
 
         <TextView
             style="@style/dialog_text_item_name"
@@ -32,7 +32,7 @@
             android:text="@string/items_sample_value" />
     </LinearLayout>
 
-    <LinearLayout style="@style/dialog_layout_line">
+    <LinearLayout style="@style/layout_line">
 
         <TextView
             style="@style/dialog_text_item_name"
