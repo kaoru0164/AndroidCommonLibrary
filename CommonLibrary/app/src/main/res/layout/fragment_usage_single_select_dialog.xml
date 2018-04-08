@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    tools:context="jp.ktoybox.android.library.common.fragment.UsageSingleSelectDialogFragment">
+
+    <LinearLayout style="@style/layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/title" />
+
+        <EditText
+            android:id="@+id/edit_title"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/title"
+            android:text="@string/title" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/items" />
+
+        <EditText
+            android:id="@+id/edit_items"
+            style="@style/dialog_edit_item_value"
+            android:hint="@string/items"
+            android:text="@string/items_sample_value" />
+    </LinearLayout>
+
+    <LinearLayout style="@style/layout_line">
+
+        <TextView
+            style="@style/dialog_text_item_name"
+            android:text="@string/cancelable" />
+
+        <CheckBox
+            android:id="@+id/check_cancelable"
+            style="@style/dialog_check_item_value"
+            android:checked="true" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/create" />
+
+</LinearLayout>
