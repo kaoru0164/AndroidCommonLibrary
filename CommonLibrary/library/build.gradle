@@ -10,7 +10,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
-        versionName "1.0"
+        versionName "0.1.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
@@ -40,8 +40,8 @@ apply plugin: 'maven'
 uploadArchives {
     repositories {
         mavenDeployer {
-            repository url: "file://${rootDir.absolutePath}/../repository"
-            pom.version = '0.0.0'
+            repository url: "file://${rootDir.absolutePath}/../docs/repository"
+            pom.version = '0.1.0'
             pom.groupId = 'jp.ktoybox.android.library.common'
             pom.artifactId = 'AndroidCommonLibrary'
         }
